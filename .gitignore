@@ -1,0 +1,22 @@
+# Build output
+.build/
+build/
+*.app
+*.zip
+
+# SwiftPM / Xcode
+.swiftpm/
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+*.xcuserstate
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+._*
